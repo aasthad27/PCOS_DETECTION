@@ -2,7 +2,7 @@
 
 ### MOTIVATION BEHIND THIS PROJECT 
 
-![_1b1a7b6b-69f7-48b5-954d-66086d599c1f](https://github.com/aasthad27/PCOS_DETECTION/assets/89932857/9ccd30c2-a82c-45f9-8d5d-bbc885e86df8)
+![_1b1a7b6b-69f7-48b5-954d-66086d599c1f](https://github.com/aasthad27/PCOS_DETECTION/assets/89932857/9ccd30c2-a82c-45f9-8d5d-bbc885e86df8=50*50)
 
 ##### The PCOS Detection ML model aims to address the pressing issue of Polycystic Ovary Syndrome (PCOS), a common hormonal disorder affecting approximately 10% of women of reproductive age. By leveraging machine learning algorithms and clinical data, our model strives to improve early detection and treatment of PCOS, ultimately enhancing healthcare outcomes and the quality of life for individuals impacted by the syndrome.
 
